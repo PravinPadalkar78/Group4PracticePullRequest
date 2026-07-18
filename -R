@@ -1,0 +1,24 @@
+*   [33mbcc6036[m[33m ([m[1;31morigin/frontend/feat/FrontendIntialSetup[m[33m)[m Merge branch 'development' into frontend/feat/FrontendIntialSetup
+[31m|[m[32m\[m  
+[31m|[m *   [33m4edcf97[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelopment[m[33m, [m[1;31morigin/development[m[33m)[m Merge branch 'backend/feat/BackendInitialSetup' into development
+[31m|[m [33m|[m[34m\[m  
+[31m|[m [33m|[m * [33m66adbf5[m[33m ([m[1;31morigin/backend/feat/BackendInitialSetup[m[33m)[m Added Git ignore file
+[31m|[m [33m|[m *   [33mdc18cad[m Merge branch 'frontend/feat/FrontendIntialSetup' into backend/feat/BackendInitialSetup
+[31m|[m [33m|[m [35m|[m[31m\[m  
+[31m|[m [33m|[m[31m_[m[35m|[m[31m/[m  
+[31m|[m[31m/[m[33m|[m [35m|[m   
+* [33m|[m [35m|[m [33mf27de2a[m Frontend Setup
+[33m|[m[33m/[m [35m/[m  
+[33m|[m * [33mefef533[m Backend Initial Setup
+[33m|[m[33m/[m  
+*   [33m655ccb6[m Merge remote-tracking branch 'origin/main' into development
+[1;31m|[m[1;32m\[m  
+[1;31m|[m *   [33m54e9246[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Merge branch 'development'
+[1;31m|[m [1;33m|[m[1;31m\[m  
+[1;31m|[m [1;33m|[m[1;31m/[m  
+[1;31m|[m[1;31m/[m[1;33m|[m   
+* [1;33m|[m [33m93fac2d[m Developement modified
+* [1;33m|[m [33mbd89c0d[m This is Development Branch
+[1;33m|[m[1;33m/[m  
+* [33m1050aa7[m Commit to check
+* [33m21cfa1d[m first commit
